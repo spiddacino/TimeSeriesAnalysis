@@ -1,2 +1,3 @@
-# FemaleBirth-TimeSeriesAnalysis
-Time series Analysis of Daily total female births in California
+# Time Series
+Time series Analysis of:
+- Daily total female births in California
